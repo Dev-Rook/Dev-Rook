@@ -4,7 +4,7 @@
 
 4+ overall years of coding experience.
 
-Skills: React Js | HTML | JavaScript | CSS | SCSS | React-Bootstrap | API's | Framer Motion| Material UI
+Skills: [<img src='[https://github.com/Dev-Rook/Dev-Rook/blob/main/GitHub-Icon.png](https://github.com/Dev-Rook/Dev-Rook/blob/main/React-Logo.png)' alt='github' height='40'>] React Js | [<img src='[https://github.com/Dev-Rook/Dev-Rook/blob/main/GitHub-Icon.png](https://github.com/Dev-Rook/Dev-Rook/blob/main/React-Logo.png)' alt='github' height='40'>] HTML | JavaScript | CSS | SCSS | React-Bootstrap | API's | Framer Motion| Material UI
 
 - 🔭 I’m currently working on this page. 
 
