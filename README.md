@@ -9,7 +9,7 @@ Skills: React Js | HTML | JavaScript | CSS | SCSS | React-Bootstrap | API's | Fr
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dev-Rook)  
+[<img src='https://cdn-icons-png.flaticon.com/512/270/270798.png' alt='github' height='40'>](https://github.com/Dev-Rook)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Rook)](https://github.com/anuraghazra/github-readme-stats)
 
