@@ -1,10 +1,21 @@
+![Fronted Web Developer](https://github.com/Dev-Rook/Dev-Rook/blob/main/Skull-Bones.jpg)
+
 ### Hi there 👋, Daniel Rook
 #### Fronted Web Developer
-![Fronted Web Developer](https://github.com/Dev-Rook/Dev-Rook/blob/main/Skull-Bones.jpg)
+
 
 Frontend React Developer. 4+ overall years of coding experience.
 
-Skills: React Js | HTML | JavaScript | CSS | SCSS | React-Bootstrap | API's | Framer Motion| Material UI
+Skills: 
+React Js 
+HTML 
+JavaScript 
+CSS 
+SCSS 
+React-Bootstrap  
+API's  
+Framer Motion 
+Material UI
 
 - 🔭 I’m currently working on this page. 
 
