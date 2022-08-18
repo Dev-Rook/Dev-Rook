@@ -1,6 +1,6 @@
 ### Hi there 👋, Daniel Rook
 #### Fronted Web Developer
-![Fronted Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Fronted Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/Skull-Bones.jpg)
 
 Frontend React Developer. 4+ overall years of coding experience.
 
