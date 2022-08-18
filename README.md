@@ -16,5 +16,3 @@ Skills: <img src='https://github.com/Dev-Rook/Dev-Rook/blob/main/React-Logo.png'
 
 ![Profile views](https://gpvc.arturio.dev/Dev-Rook)  
 
-
-https://twitter.com/Dev_Rook
