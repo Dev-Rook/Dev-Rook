@@ -8,7 +8,7 @@ Skills: <img src='https://github.com/Dev-Rook/Dev-Rook/blob/main/React-Logo.png'
 
 
 [<img src='https://github.com/Dev-Rook/Dev-Rook/blob/main/GitHub-Icon.png' alt='github' height='40'>](https://github.com/Dev-Rook) 
-[<img src='https://github.com/Dev-Rook/Dev-Rook/blob/main/LinkedIn-Icon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/Dev-rook/) [<img src='https://github.com/Dev-Rook/Dev-Rook/blob/main/Logo.jpg' alt='website' height='40'>](https://devrook.vercel.app/) [<img src='https://github.com/Dev-Rook/Dev-Rook/blob/main/Logo.jpg' alt='website' height='40'>](https://twitter.com/Dev_Rook) 
+[<img src='https://github.com/Dev-Rook/Dev-Rook/blob/main/LinkedIn-Icon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/Dev-rook/) [<img src='https://github.com/Dev-Rook/Dev-Rook/blob/main/Logo.jpg' alt='website' height='40'>](https://devrook.vercel.app/) [<img src='[https://github.com/Dev-Rook/Dev-Rook/blob/main/Logo.jpg](https://github.com/Dev-Rook/Dev-Rook/blob/main/Twitter-Icon.png)' alt='website' height='40'>](https://twitter.com/Dev_Rook) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Rook)](https://github.com/anuraghazra/github-readme-stats)
 
