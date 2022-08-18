@@ -14,8 +14,6 @@ Skills: <img src='https://github.com/Dev-Rook/Dev-Rook/blob/main/React-Logo.png'
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Rook&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Rook)  
-
 ![Profile views](https://gpvc.arturio.dev/Dev-Rook)  
 
 
