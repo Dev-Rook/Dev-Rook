@@ -2,7 +2,7 @@
 #### Frontend React Developer. 
 ![Frontend React Developer. ](https://devrook.vercel.app/favicon.ico)
 
-4+ overall years of coding experience.
+1 year of coding experience.
 
 Programing Languages and Tools:
 
