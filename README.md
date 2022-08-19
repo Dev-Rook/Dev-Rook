@@ -3,6 +3,9 @@
 ![Frontend React Developer. ](https://devrook.vercel.app/favicon.ico)
 
 1 year of coding experience.
+2 Months experience with React Js Framework.
+Main tool React Js.
+Targeting UI Frontend specific roles.
 
 Programing Languages and Tools:
 
