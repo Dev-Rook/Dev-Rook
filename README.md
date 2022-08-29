@@ -1,13 +1,8 @@
-### Hi there 👋, Daniel
+### Hi there 👋, I'am Daniel
 #### Frontend React Developer. 
 ![Frontend React Developer. ](https://devrook.vercel.app/favicon.ico)
 
-1 year of coding experience.
-2 Months experience with React Js Framework.
-Main tool React Js.
-Targeting UI Frontend specific roles.
-
-Programing Languages and Tools:
+Software engineer with 1 year overall Web Development experience. Skilled in utilizing React Js with a variety of libraries, API's, Html, CSS, SCSS and JavaScript to solve problems and create websites. Focused on becoming a valuable integration to any team I am on to develop successful project that aligns with modern UI/UX standards.
 
 <img src='https://camo.githubusercontent.com/fe1abf16d1d4824f981369efa86e37e9947eab8930b28eacfe1c4a9a16a1e882/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d3138363763303f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d666666' heigh='20'> <img src='https://camo.githubusercontent.com/7f013f938d603c56bcb7b16487d4bb8c1ac4138b26e6af5f31e91efd5f346cc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534353532d4343363639393f7374796c653d666f722d7468652d6261646765266c6f676f3d73617373266c6f676f436f6c6f723d7768697465' heigh='20'> <img src='https://camo.githubusercontent.com/84abea55deb92e38494f684f325a1a278b0610465088e6daa7fb0d4eb8c71a26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030' heigh='20'> <img src='https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465' heigh='20'>
 
