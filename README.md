@@ -9,7 +9,7 @@ Software engineer with 1 year overall Web Development experience. As a Junior We
 
 
 [<img src='https://github.com/Dev-Rook/Dev-Rook/blob/main/GitHub-Icon.png' alt='github' height='40'>](https://github.com/Dev-Rook) 
-[<img src='https://github.com/Dev-Rook/Dev-Rook/blob/main/LinkedIn-Icon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/Dev-rook/) [<img src='https://github.com/Dev-Rook/Dev-Rook/blob/main/Logo.jpg' alt='website' height='40'>](https://devrook.vercel.app/) [<img src='https://github.com/Dev-Rook/Dev-Rook/blob/main/Twitter-Icon.png' alt='website' height='40'>](https://twitter.com/Dev_Rook) 
+[<img src='https://github.com/Dev-Rook/Dev-Rook/blob/main/LinkedIn-Icon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/Dev-rook/) [<img src='https://github.com/Dev-Rook/Dev-Rook/blob/main/Logo.jpg' alt='website' height='40'>](https://rookdeveloper.vercel.app/) [<img src='https://github.com/Dev-Rook/Dev-Rook/blob/main/Twitter-Icon.png' alt='website' height='40'>](https://twitter.com/Dev_Rook) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Rook)](https://github.com/anuraghazra/github-readme-stats)
 
