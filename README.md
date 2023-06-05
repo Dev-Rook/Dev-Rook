@@ -1,6 +1,5 @@
 ### Hi there 👋, I'am Daniel
 #### Frontend React Developer. 
-![Frontend React Developer. ](https://devrook.vercel.app/favicon.ico)
 
 I am a indie Frontend Web Developer with a passion for constructing/implementing digital web services & solving real-life problems with code. I currently work remotely with a selected freelance client base, however I am interested in ambitiuous or large team based projects.
 
