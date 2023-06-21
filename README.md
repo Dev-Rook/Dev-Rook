@@ -29,14 +29,15 @@ I am a Freelance Fullstack developer with a passion for building digital service
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Axios Api Test](https://ytcards.demolab.com/?id=tF1vJ71KnHY&title=Trying+to+Connect+GPT-4+to+the+Internet&lang=en&timestamp=1685459704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=385 "Trying to Connect GPT-4 to the Internet")](https://www.youtube.com/watch?v=tF1vJ71KnHY)](https://www.youtube.com/watch?v=9816hnBEvtI)
-[![The Making of GNU: The World's First Open-Source Software](https://ytcards.demolab.com/?id=sQDvkd2wtxU&title=The+Making+of+GNU%3A+The+World%27s+First+Open-Source+Software&lang=en&timestamp=1684076438&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=484 "The Making of GNU: The World's First Open-Source Software")](https://www.youtube.com/watch?v=sQDvkd2wtxU)
+
 
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://(https://www.youtube.com/@devrook)?sub_confirmation=1)
 
 #
+
+
 
 
 
