@@ -3,7 +3,14 @@
 
 I am a Freelance Fullstack developer with a passion for building digital services/things. I find planing, designing and the implementing logic to solve problems with code absolutely fun. I currently work remotely with a selected freelance client base, however I am interested in ambitious or large team based projects.
 
-
+   <p align="left">
+      <a href="https://www.youtube.com/@devrook?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://github.com/Dev-Rook?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Dev-Rook?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
+   </p>
 
 ---
 
@@ -28,19 +35,6 @@ I am a Freelance Fullstack developer with a passion for building digital service
           
           
 <br />
-
-#
-
-
-   <p align="left">
-      <a href="https://www.youtube.com/@devrook?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://github.com/Dev-Rook?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Dev-Rook?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
-   </p>
-
 
 #
 
