@@ -31,9 +31,6 @@ I am a Freelance Fullstack developer with a passion for building digital service
 
 ---
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Rook&show_icons=true)  
-
 #
 
 
@@ -49,6 +46,9 @@ I am a Freelance Fullstack developer with a passion for building digital service
 
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Rook&show_icons=true)  
+
+#
 
 
 <details>
