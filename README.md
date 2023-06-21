@@ -4,6 +4,9 @@
 I am a Freelance Fullstack developer with a passion for building digital services/things. I find planing, designing and the implementing logic to solve problems with code absolutely fun. I currently work remotely with a selected freelance client base, however I am interested in ambitious or large team based projects.
 
 
+
+---
+
 ### 🧰 Languages and Tools
 
 
@@ -18,7 +21,6 @@ I am a Freelance Fullstack developer with a passion for building digital service
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
----
 
    <p align="left">
       <a href="https://www.youtube.com/@devrook?sub_confirmation=1">
