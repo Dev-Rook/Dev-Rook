@@ -1,5 +1,5 @@
 # 🖥️ Developr Rook
-#### Fullstack Developer | React JS | JavaScript | Express JS | MongoDB 
+#### Fullstack Developer => React JS | JavaScript | Express JS | MongoDB 
 
 I am a Freelance Fullstack developer with a passion for building digital services/things. I find planing, designing and the implementing logic to solve problems with code absolutely fun. I currently work remotely with a selected freelance client base, however I am interested in ambitious or large team based projects.
 
