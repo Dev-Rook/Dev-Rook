@@ -58,10 +58,10 @@ I am a Freelance Fullstack developer with a passion for building digital service
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-         My coding journey began back in 2019 when I found out a couple friends of mine were into to. A little bit of research later and I found out that Python was the easiest programming language to learn for beginners. I played around with it for a while but didn't get very far. I was trapped in tutorial hell as I have come to discover. But what I realized was, I was only learning programming because my friends did it. I had no goal. I was doing doing it just because. 
-Fast forward to late 2021, I bought a proper laptop and decided to try my hand a t programming again. This time I did better research and settled on Web Development. I learnt the fundamentals of JavaScript, Html & CSS. Wasn't very smooth at first, tutorial hell came back around for a while but sticking to the fundamentals and working on projects ever scaling up in complexity, made me garnered the skills to tackle a Frontend Framework, React JS. My current tool. 
+         My coding journey began back in 2019 when I found out a couple friends of mine were into to programming. A little bit of research later and I found out that Python was the easiest programming language to learn for beginners. I played around with it for a while but didn't get very far. I was trapped in tutorial hell as I have come to discover. But what I realized was, I was only learning programming because my friends did it. I had no goal. I was doing doing it just because. 
+Fast forward to late 2021, I bought myself a proper laptop and decided to try my hand at programming again. This time I did better research and settled on Web Development. I learned the fundamentals of JavaScript, Html & CSS. Wasn't very smooth at first, tutorial hell came back around for a while but sticking to the fundamentals and working on projects ever scaling up in complexity, made me garnered the skills to tackle a Frontend Framework, React JS. My current tool. 
 React JS has been fun to work with, I learn something new every time I load up a new project. I feel like an actual Web Developer on the verge of making a break through in getting into a company and putting my skills to use. 
-With React JS I have learnt some other tools for development, MongoDB, Express JS, Node, Firebase and recently ChatGPT which has been a mighty fine tool I can pull up when I am stuck on something. 
+With React JS I have learnt some other tools for development: MongoDB, Express JS, Node, Firebase and recently ChatGPT which has been a mighty fine tool I can pull up when I am stuck on something. 
 
 
 [website]: https://devrook.vercel.app
